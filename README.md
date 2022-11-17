@@ -1,4 +1,4 @@
-# prometheus-grafana-demo
+## prometheus-grafana-demo
 
 Goal: To create a demo grafana dashboard that pulls up prometheus metrics
 
